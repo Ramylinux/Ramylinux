@@ -15,13 +15,13 @@
 - 🏢 I'm a Software Engineer Manager
 - 👨‍💻 Check out my portfolio at https://ramyabudhair.netlify.app/ to see some of the projects I've worked on.
 
-
+<!-- https://www.netlify.com/ -->
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ramyabudhair" target="_blank"><img src="https://img.shields.io/badge/-Ramy%20AbuDhair-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a></a>
 <a href="https://t.me/RamyAbuDhair" target="_blank"><img src="https://img.shields.io/badge/-Ramy%20AbuDhair-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<!-- 
+<!-- https://shields.io
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
