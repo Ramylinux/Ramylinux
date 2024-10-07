@@ -5,7 +5,12 @@
   Welcome to Ramy Abu-Dhair profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Manager;Full-Stack%20Web%20Development;DevOps%20And%20Cloud%20Management&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
+  
 
 - 🏢 I'm a Software Engineer Manager
 - 👨‍💻 Check out my portfolio at https://ramyabudhair.netlify.app/ to see some of the projects I've worked on.
