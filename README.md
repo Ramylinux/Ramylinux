@@ -7,12 +7,14 @@
 </h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20leadership;DevOps%20And%20Cloud%20Management;Full-Stack%20Web%20Development&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20leadership;Cloud%20And%20DevOps%20Engineering;Full-Stack%20Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-  
+<!-- Specializing in automating scalable infrastructure, Multi-cloud platforms (Azure, AWS) -->
 
-- 🏢 I'm a Software Engineer Manager
+- 🏢 I'm a IT leadership.
+- Multi-Cloud and DevOps Engineering.
+- ASP.NET Core Devloper. 
 - 👨‍💻 Check out my portfolio at https://ramyabudhair.netlify.app/ to see some of the projects I've worked on.
 
 <!-- 
